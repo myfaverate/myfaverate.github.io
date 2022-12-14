@@ -355,6 +355,19 @@ h6::before {
 }
 
 /*导航栏字体加黑边*/
-.menus_item{
-  text-shadow: rgba(30, 30, 30, 1) 10px 10px 10px;
+.menus_item .site-page span{
+  /*导航栏字体加黑边*/
+  text-shadow: rgba(30, 30, 30, 1) 0.5px 0.5px 1px;
+}
+/*右上角搜索字体加黑边*/
+#search-button .site-page span{
+  text-shadow: rgba(30, 30, 30, 1) 0.5px 0.5px 1px;
+}
+
+/*底部字体footer加黑边*/
+#workboard {
+  text-shadow: rgba(30, 30, 30, 1) 0.5px 0.5px 1px;
+}
+#footer-wrap .copyright{
+  text-shadow: rgba(30, 30, 30, 1) 0.5px 0.5px 1px;
 }
