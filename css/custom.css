@@ -353,3 +353,8 @@ h6::before {
   -webkit-animation: ccc 6s linear infinite;
   animation: ccc 6s linear infinite;
 }
+
+/*导航栏字体加黑边*/
+.menus_item{
+  text-shadow: rgba(30, 30, 30, 1) 10px 10px 10px;
+}
