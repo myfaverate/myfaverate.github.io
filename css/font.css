@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "ZhuZiAWan2";
+    src: url(/font/ZhuZiAWan2.woff2);
+    font-display: swap;
+}
+@font-face {
+    font-family: "JetBrainsMono-Bold";
+    src: url(/font/JetBrainsMono-Bold.ttf);
+    font-display: swap;
+}
